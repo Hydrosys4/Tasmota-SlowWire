@@ -1,2 +1,2 @@
 # Tasmota-SlowWire
-customized version of tasmota including support for the SlowWire protocol
+Customized version of tasmota-sensor including support for the SlowWire protocol
